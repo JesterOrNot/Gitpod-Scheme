@@ -1,2 +1,6 @@
 image:
   file: .gitpod.Dockerfile
+
+vscode:
+  extensions:
+    - sjhuangx.vscode-scheme@0.4.0:f3cFvOX3j6VBJdYX8M5oJw==
